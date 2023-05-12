@@ -22,7 +22,7 @@ const Footer = () => {
               <ul className="list-none mt-6">
                 <li className="inline">
                   <a
-                    href="https://1.envato.market/techwind"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"
@@ -301,7 +301,7 @@ const Footer = () => {
       <div className="grid md:grid-cols-2 items-center">
         <div className="md:text-left text-center">
           <p className="mb-0">
-            © 2023 Techwind. Design with{" "}
+            © 2023 GERGI. Design with{" "}
             <i className="mdi mdi-heart text-red-600" /> by{" "}
             <a
               href="https://shreethemes.in/"

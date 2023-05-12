@@ -17,7 +17,7 @@ const BookList8 = () => {
           </div>
           <div className="md:col-span-6">
             <p className="max-w-xl text-slate-400">
-              Start working with Techwind that can provide everything you need to
+              Start working with GERGI that can provide everything you need to
               generate awareness, drive traffic, connect.
             </p>
           </div>

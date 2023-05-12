@@ -18,7 +18,7 @@ const HowItWork = () => {
             <div className="lg:col-span-7 mt-8 md:mt-0">
               <div className="lg:ml-10">
                 <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold dark:text-white">Change the way you build websites</h3>
-                <p className="text-slate-400 max-w-xl">You can combine all the Techwind templates into a single one, you can take a component from the Application theme and use it in the Website.</p>
+                <p className="text-slate-400 max-w-xl">You can combine all the GERGI templates into a single one, you can take a component from the Application theme and use it in the Website.</p>
                 <ul className="list-none text-slate-400 mt-4">
                   <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Digital Marketing Solutions for Tomorrow</li>
                   <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Our Talented &amp; Experienced Marketing Agency</li>
@@ -74,8 +74,8 @@ const HowItWork = () => {
               </div>
             </div>
             <div className="lg:col-span-7 md:order-1 order-2 mt-8 md:mt-0">
-              <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold text-black dark:text-white">Speed up your development <br /> with <span className="text-indigo-600">Techwind.</span></h3>
-              <p className="text-slate-400 max-w-xl">You can combine all the Techwind templates into a single one, you can take a component from the Application theme and use it in the Website.</p>
+              <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold text-black dark:text-white">Speed up your development <br /> with <span className="text-indigo-600">GERGI.</span></h3>
+              <p className="text-slate-400 max-w-xl">You can combine all the GERGI templates into a single one, you can take a component from the Application theme and use it in the Website.</p>
               <ul className="list-none text-slate-400 mt-4">
                 <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Digital Marketing Solutions for Tomorrow</li>
                 <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Our Talented &amp; Experienced Marketing Agency</li>

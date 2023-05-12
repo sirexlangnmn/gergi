@@ -12,7 +12,7 @@ const HowItWorksTwo = () => {
                 {/* <i data-feather="help-circle" className="fea icon-ex-md text-indigo-600 mr-3" /> */}
                 <FiHelpCircle className="text-indigo-600 mr-3 mt-1 h-6 w-6" />
                 <div className="flex-1">
-                  <h5 className="mb-2 text-xl font-semibold dark:text-white">How our <span className="text-indigo-600">Techwind</span> work ?</h5>
+                  <h5 className="mb-2 text-xl font-semibold dark:text-white">How our <span className="text-indigo-600">GERGI</span> work ?</h5>
                   <p className="text-slate-400">Due to its widespread use as filler text for layouts, non-readability is of great importance: human perception is tuned to recognize certain patterns and repetitions in texts.</p>
                 </div>
               </div>
@@ -36,7 +36,7 @@ const HowItWorksTwo = () => {
                 {/* <i data-feather="help-circle" className="fea icon-ex-md text-indigo-600 mr-3" /> */}
                 <FiHelpCircle className="text-indigo-600 mr-3 mt-1 h-6 w-6" />
                 <div className="flex-1">
-                  <h5 className="mb-2 text-xl font-semibold dark:text-white"> Is <span className="text-indigo-600">Techwind</span> safer to use with my account ?</h5>
+                  <h5 className="mb-2 text-xl font-semibold dark:text-white"> Is <span className="text-indigo-600">GERGI</span> safer to use with my account ?</h5>
                   <p className="text-slate-400">The most well-known dummy text is the 'Lorem Ipsum', which is said to have originated in the 16th century. Lorem Ipsum is composed in a pseudo-Latin language which more or less corresponds to 'proper' Latin.</p>
                 </div>
               </div>

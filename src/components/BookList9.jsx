@@ -10,7 +10,7 @@ const BookList9 = () => {
               Our Services
             </h3>
             <p className="text-slate-400 max-w-xl mx-auto">
-              Start working with Techwind that can provide everything you need to
+              Start working with GERGI that can provide everything you need to
               generate awareness, drive traffic, connect.
             </p>
           </div>
@@ -149,7 +149,7 @@ const BookList9 = () => {
           <div className="grid md:grid-cols-12 grid-cols-1 pb-8 items-center">
             <div className="md:col-span-6 md:text-left text-center">
               <h3 className="md:mb-0 mb-6 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">
-                Why Everyone Loves <br /> Techwind
+                Why Everyone Loves <br /> GERGI
               </h3>
             </div>
             <div className="md:col-span-6">

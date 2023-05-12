@@ -59,7 +59,7 @@ const Nav = () => {
               <a href="#" className="btn btn-icon rounded-full bg-indigo-600/5 hover:bg-indigo-600 border-indigo-600/10 hover:border-indigo-600 text-indigo-600 hover:text-white"><i data-feather="settings" className="h-4 w-4" /></a>
             </li>
             <li className="inline pl-1 mb-0">
-              <a href="https://1.envato.market/techwind" target="_blank" className="btn btn-icon rounded-full bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white"><i data-feather="shopping-cart" className="h-4 w-4" /></a>
+              <a href="" target="_blank" className="btn btn-icon rounded-full bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white"><i data-feather="shopping-cart" className="h-4 w-4" /></a>
             </li> */}
           </ul>
           <div id="navigation" onClick={toggleSubMenu}>
