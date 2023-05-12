@@ -1,11 +1,7 @@
 import React from 'react'
 import { useState } from "react";
 import { AiOutlineClose } from "react-icons/ai";
-import { 
-  macularAndRetinalDiseases, 
-  atlasAndClinicalReferenceGuideForCornealTopography,
-  ophthalmologyCurrentAndFutureDevelopmentsVol3,
-} from '../assets/optometry'
+
 
 const BookList14 = () => {
   const [selectedImage, setSelectedImage] = useState(null);
@@ -20,25 +16,25 @@ const BookList14 = () => {
 
   const images = [
     {
-      id: 'BI20211013141003000030',
-      title: "Macular and Retinal Diseases",
-      url: macularAndRetinalDiseases,
-      thumbnailUrl: macularAndRetinalDiseases,
+      id: 1,
+      title: "Living in the Light: A guide to personal transformation",
+      url: "https://cdn.asaha.com/assets/thumbs/9b8/9b88b7c17f496a61fc78505130af288e.jpg",
+      thumbnailUrl: "https://cdn.asaha.com/assets/thumbs/9b8/9b88b7c17f496a61fc78505130af288e.jpg",
       downloadUrl: "https://drive.google.com/file/d/106IhJFAJfSxgdOdDm6skeA-TWQPp9WDN/view",
     },
     {
-      id: 'BI20211013141003000024',
-      title: "Atlas and Clinical Reference Guide for Corneal Topography",
-      url: atlasAndClinicalReferenceGuideForCornealTopography,
-      thumbnailUrl: atlasAndClinicalReferenceGuideForCornealTopography,
-      downloadUrl: "https://drive.google.com/file/d/10MwMwzHUwwclWhn3tFEZOqOvl4D1UhbE/view",
+      id: 2,
+      title: "Give and Take: WHY HELPING OTHERS DRIVES OUR SUCCESS",
+      url: "https://cdn.asaha.com/assets/thumbs/653/653f249a58f438ef343c5da5f023203d.jpg",
+      thumbnailUrl: "https://cdn.asaha.com/assets/thumbs/653/653f249a58f438ef343c5da5f023203d.jpg",
+      downloadUrl: "https://drive.google.com/file/d/106IhJFAJfSxgdOdDm6skeA-TWQPp9WDN/view",
     },
     {
       id: 3,
-      title: "Ophthalmology: Current and Future Developments (Vol. 3)",
-      url: ophthalmologyCurrentAndFutureDevelopmentsVol3,
-      thumbnailUrl: ophthalmologyCurrentAndFutureDevelopmentsVol3,
-      downloadUrl: "https://drive.google.com/file/d/10Fj7NplceO9A89jZcQmogHRX1S6IkT_d/view",
+      title: "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings",
+      url: "https://cdn.asaha.com/assets/thumbs/ed5/ed59854c54d482b0efb0ee9bebbd7a72.jpg",
+      thumbnailUrl: "https://cdn.asaha.com/assets/thumbs/ed5/ed59854c54d482b0efb0ee9bebbd7a72.jpg",
+      downloadUrl: "https://drive.google.com/file/d/106IhJFAJfSxgdOdDm6skeA-TWQPp9WDN/view",
     },
     {
       id: 4,
@@ -103,8 +99,8 @@ const BookList14 = () => {
                     className="flex md:items-center md:flex-col relative w-full"
                   >
                     <div className="w-1/2 md:w-full relative py-2 rounded-bl-xl rounded-tl-xl md:rounded-tr-xl md:rounded-bl-none rtl:order-2 rtl:md:order-none flex flex-col justify-between items-center ">
-                      <div className="flex items-center h-80">
-                        <span className="">
+                      <div className="flex items-center h-full">
+                        <span className="inline-block overflow-hidden w-auto h-auto bg-transparent opacity-100 border-0 m-0 p-0 relative max-w-full">
                           <span className="block box-border w-auto h-auto bg-transparent opacity-100 border-0 m-0 p-0 max-w-full">
 
                             <img alt={image.title} aria-hidden="true" src={image.thumbnailUrl} onClick={() => handleClick(image)}
@@ -125,8 +121,8 @@ const BookList14 = () => {
                     </div>
                     <div className="flex flex-col justify-between flex-grow w-1/2 md:w-full px-1 md:px-3 py-2 md:py-4 bg-white dark:bg-slate-800 rounded-b-xl">
                       <div className="flex justify-center md:justify-start flex-col flex-grow overflow-hidden">
-                        <a href={image.downloadUrl} target="_blank" rel="noreferrer" className="text-lg hover:text-indigo-600 font-medium ease-in-out duration-500">
-                          <h3 className="">
+                        <a href={image.downloadUrl} target="_blank" rel="noreferrer" className="">
+                          <h3 className="text-sm sm:text-[12px] md:text-sm text-left text-palette-mute ">
                             {image.title}
                           </h3>
                         </a>
