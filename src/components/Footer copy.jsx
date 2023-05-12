@@ -35,7 +35,7 @@ const Footer = () => {
                 </li>
                 <li className="inline">
                   <a
-                    href="https://dribbble.com/shreethemes"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"
@@ -48,7 +48,7 @@ const Footer = () => {
                 </li>
                 <li className="inline">
                   <a
-                    href="https://www.behance.net/shreethemes"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"
@@ -58,7 +58,7 @@ const Footer = () => {
                 </li>
                 <li className="inline">
                   <a
-                    href="http://linkedin.com/company/shreethemes"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"
@@ -68,7 +68,7 @@ const Footer = () => {
                 </li>
                 <li className="inline">
                   <a
-                    href="https://www.facebook.com/shreethemes"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"
@@ -81,7 +81,7 @@ const Footer = () => {
                 </li>
                 <li className="inline">
                   <a
-                    href="https://www.instagram.com/shreethemes/"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"
@@ -94,7 +94,7 @@ const Footer = () => {
                 </li>
                 <li className="inline">
                   <a
-                    href="https://twitter.com/shreethemes"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"
@@ -107,7 +107,7 @@ const Footer = () => {
                 </li>
                 <li className="inline">
                   <a
-                    href="mailto:support@shreethemes.in"
+                    href=""
                     className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"
                   >
                     <i
@@ -304,12 +304,12 @@ const Footer = () => {
             © 2023 GERGI. Design with{" "}
             <i className="mdi mdi-heart text-red-600" /> by{" "}
             <a
-              href="https://shreethemes.in/"
+              href=""
               target="_blank"
               rel="noreferrer"
               className="text-reset"
             >
-              Shreethemes
+              GERGI
             </a>
             .
           </p>

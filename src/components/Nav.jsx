@@ -312,8 +312,8 @@ const Nav = () => {
                 </div>
               </li>
               <li><a href="" className="sub-menu-item">About Us</a></li>
-              <li><a href="" className="sub-menu-item">FAQ</a></li>
-              <li><a href="" className="sub-menu-item">Terms and Condition</a></li>
+              {/* <li><a href="" className="sub-menu-item">FAQ</a></li>
+              <li><a href="" className="sub-menu-item">Terms and Condition</a></li> */}
 
               {/* <li className="has-submenu parent-parent-menu-item">
                 <a href="#">Landing</a><span className="menu-arrow" />

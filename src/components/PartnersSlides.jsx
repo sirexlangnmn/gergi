@@ -44,7 +44,9 @@ const PartnersSlides = () => {
             <div className="grid grid-cols-1 pb-8 text-center">
               <h6 className="mb-4 text-base font-medium text-indigo-600">We believe in building each other and hence</h6>
               <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold dark:text-white">Work with some amazing partners</h3>
-              <p className="text-slate-400 max-w-xl mx-auto">Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect.</p>
+              <p className="text-slate-400 max-w-xl mx-auto">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </p>
             </div>
             <div className="grid relative grid-cols-1 mt-8">
               <div ref={sliderRef} className="tiny-two-item">
@@ -128,7 +130,9 @@ const PartnersSlides = () => {
               <div className="lg:col-span-5">
                 <div className="lg:text-left text-center">
                   <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold dark:text-white">Our Comfortable Rates</h3>
-                  <p className="text-slate-400 max-w-xl mx-auto">Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                  <p className="text-slate-400 max-w-xl mx-auto">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  </p>
                   <div className="mt-6">
                     <a href="page-pricing.html" className="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md mr-2 mt-2"><i className="uil uil-master-card" /> Subscribe Now</a>
                   </div>

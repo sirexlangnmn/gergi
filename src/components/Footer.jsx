@@ -16,7 +16,9 @@ const Footer = () => {
                     <a href="#" className="text-[22px] focus:outline-none">
                       <img src={logoLight} className="w-44" alt="" />
                     </a>
-                    <p className="mt-6 text-gray-300">Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                    <p className="mt-6 text-gray-300">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    </p>
                     <ul className="list-none mt-6">
                       <li className="inline"><a href="" target="_blank" rel="noreferrer" className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"><i className="uil uil-shopping-cart align-middle" title="Buy Now" /></a></li>
                       <li className="inline"><a href="" target="_blank" rel="noreferrer" className="btn btn-icon btn-sm border border-gray-800 rounded-md hover:border-indigo-600 dark:hover:border-indigo-600 hover:bg-indigo-600 dark:hover:bg-indigo-600"><i className="uil uil-dribbble align-middle" title="dribbble" /></a></li>

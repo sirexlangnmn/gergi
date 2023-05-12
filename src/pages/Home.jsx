@@ -26,7 +26,7 @@ const Home = () => {
       <div>
         <Nav />
         <Hero />
-        <BusinessPartners />
+        {/* <BusinessPartners /> */}
         <HowItWork />
         <PartnersSlides />
         <HowItWorksTwo />

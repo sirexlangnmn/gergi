@@ -8,8 +8,10 @@ const HowItWork = () => {
     <section className="relative md:py-24 py-16 bg-gray-50 dark:bg-slate-800">
         <div className="container">
           <div className="grid grid-cols-1 pb-8 text-center">
-            <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold dark:text-white">How It Work ?</h3>
-            <p className="text-slate-400 max-w-xl mx-auto">Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect.</p>
+            <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold dark:text-white">Lorem Ipsum ?</h3>
+            <p className="text-slate-400 max-w-xl mx-auto">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </p>
           </div>
           <div className="grid lg:grid-cols-12 md:grid-cols-2 grid-cols-1 items-center mt-10 gap-[30px]">
             <div className="lg:col-span-5">
@@ -17,12 +19,20 @@ const HowItWork = () => {
             </div>
             <div className="lg:col-span-7 mt-8 md:mt-0">
               <div className="lg:ml-10">
-                <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold dark:text-white">Change the way you build websites</h3>
-                <p className="text-slate-400 max-w-xl">You can combine all the GERGI templates into a single one, you can take a component from the Application theme and use it in the Website.</p>
+                <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold dark:text-white">Lorem Ipsum</h3>
+                <p className="text-slate-400 max-w-xl">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                </p>
                 <ul className="list-none text-slate-400 mt-4">
-                  <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Digital Marketing Solutions for Tomorrow</li>
-                  <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Our Talented &amp; Experienced Marketing Agency</li>
-                  <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Create your own skin to match your brand</li>
+                  <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  </li>
+                  <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  </li>
+                  <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  </li>
                 </ul>
                 <div className="mt-4">
                   <a href="page-aboutus.html" className="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">Find Out More <i className="uil uil-angle-right-b align-middle" /></a>
@@ -75,11 +85,19 @@ const HowItWork = () => {
             </div>
             <div className="lg:col-span-7 md:order-1 order-2 mt-8 md:mt-0">
               <h3 className="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold text-black dark:text-white">Speed up your development <br /> with <span className="text-indigo-600">GERGI.</span></h3>
-              <p className="text-slate-400 max-w-xl">You can combine all the GERGI templates into a single one, you can take a component from the Application theme and use it in the Website.</p>
+              <p className="text-slate-400 max-w-xl">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </p>
               <ul className="list-none text-slate-400 mt-4">
-                <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Digital Marketing Solutions for Tomorrow</li>
-                <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Our Talented &amp; Experienced Marketing Agency</li>
-                <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> Create your own skin to match your brand</li>
+                <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> 
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                </li>
+                <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> 
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                </li>
+                <li className="mb-1 flex"><i className="uil uil-check-circle text-indigo-600 text-xl mr-2" /> 
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                </li>
               </ul>
               <div className="mt-4">
                 <a href="page-aboutus.html" className="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">Find Out More <i className="uil uil-angle-right-b align-middle" /></a>
